@@ -18,7 +18,5 @@ def palindrome(word):
             return False
     return True
 
-word = 'kayak'
-
 if __name__ == '__main__': 
     print(palindrome(word))
