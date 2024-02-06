@@ -17,6 +17,7 @@ def palindrome(word):
         else:
             return False
     return True
+# Test
 
 if __name__ == '__main__':
     print(palindrome(word))
